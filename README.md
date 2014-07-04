@@ -1,9 +1,9 @@
-CodeIgniter-Sample-Project
-==========================
+ CODEIGNITER + BOOSTRAP + JQUERY + MYSQL
+====================================================================== 
 
-Sample administrator panel using CodeIgniter 2.1.2 with Mysql and Twitter Bootstrap.
+Panel de administrador de la muestra usando CodeIgniter 2.1.2 con Mysql y Twitter Bootstrap. 
 
-<h2>Requirements</h2>
+<h2> Requerimientos </ h2>
 <ul>
 <li>
 <a href="http://twitter.github.com/bootstrap/" target="_blank">Bootstrap</a> 2.0.4+</li>
@@ -12,16 +12,16 @@ Sample administrator panel using CodeIgniter 2.1.2 with Mysql and Twitter Bootst
 </ul>
 
 
-<h2>Functionalities:</h2>
+<h2> Funcionalidades: </ h2> 
 
-<ul>
-  <li>Signup/Login/Logout</li> 
-  <li>Create, insert, edit and delete products</li>
-  <li>Create, insert, edit and delete manufacturers</li>
-  <li>All forms with back end validation</li>
-  <li>List data content with pagination, search, and filters</li>
-</ul>
-------------------------------------------------------------------
+<ul> 
+   <li> Registrarse / Iniciar sesión / Cerrar sesión </ li> 
+   <li> Crear, insertar, editar y eliminar los productos </ li> 
+   <li> Crear, insertar, editar y eliminar los fabricantes </ li> 
+   <li> Todas las formas con la validación final de vuelta </ li> 
+   contenido de los datos de lista <li> con paginación, búsqueda y filtros </ li> 
+</ ul> 
+-------------------------------------------------- ----------------
 
 <h2>Screenshots</h2>
 
@@ -33,17 +33,14 @@ Sample administrator panel using CodeIgniter 2.1.2 with Mysql and Twitter Bootst
 
 ------------------------------------------------------------------
 
-<h2>Instructions</h2>
+<h2> Instrucciones </ h2> 
 
-<ul>
-  <li>Setup your database in application/config/database.php</li>
-  <li>Dump the mysql at the bottom of this readme</li>
-  <li>Change $config['base_url'] in application/config/config.php</li>
-  <li>Access your project url</li>
-  <li>Signup and enjoy!</li>
-</ul>
-
-
+<ul> 
+   Configurar <li> su base de datos en application / config / database.php </ li> 
+   <li> Cambio $ config ['base_url'] en application / config / config.php </ li> 
+   <li> Acceda a su url proyecto </ li> 
+   <li> Regístrate y disfruta! </ li> 
+</ ul>
 ------------------------------------------------------------------
 
 <h2>Mysql Dump</h2>
@@ -99,3 +96,5 @@ CREATE TABLE `products` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 ```
+
+
