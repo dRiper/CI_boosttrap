@@ -3,7 +3,7 @@
 
 Panel de administrador de la muestra usando CodeIgniter 2.1.2 con Mysql y Twitter Bootstrap. 
 
-<h2> Requerimientos </ h2>
+<h2> Requerimientos </h2>
 <ul>
 <li>
 <a href="http://twitter.github.com/bootstrap/" target="_blank">Bootstrap</a> 2.0.4+</li>
@@ -12,7 +12,7 @@ Panel de administrador de la muestra usando CodeIgniter 2.1.2 con Mysql y Twitte
 </ul>
 
 
-<h2> Funcionalidades: </ h2> 
+<h2> Funcionalidades: </h2> 
 
 <ul> 
    <li> Registrarse / Iniciar sesión / Cerrar sesión </ li> 
@@ -33,7 +33,7 @@ Panel de administrador de la muestra usando CodeIgniter 2.1.2 con Mysql y Twitte
 
 ------------------------------------------------------------------
 
-<h2> Instrucciones </ h2> 
+<h2> Instrucciones </h2> 
 
 <ul> 
    Configurar <li> su base de datos en application / config / database.php </ li> 
